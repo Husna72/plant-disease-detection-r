@@ -1,0 +1,20 @@
+# Model files (too large for GitHub)
+*.h5
+*.keras
+
+# Dataset images (too large)
+*.jpg
+*.jpeg
+*.png
+color/
+plantvillage*/
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user
+*.h5
+*.png
+color/
+.Rhistory
+.RData
